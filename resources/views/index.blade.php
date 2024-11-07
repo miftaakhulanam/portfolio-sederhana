@@ -241,6 +241,20 @@
                 <h1 class="text-lg font-normal text-slate-100 mt-3">Website Company Profile</h1>
                 <h1 class="text-base font-normal text-slate-500 mb-3">Frontend, Backend</h1>
             </div>
+            <div class="w-full px-20 py-4 flex flex-col justify-end items-center">
+                <img src="img/ui1.png"
+                    class="border border-slate-400 rounded-md saturate-0 hover:ring-4 hover:border-none hover:ring-sky-500 transition duration-500 hover:scale-105 hover:filter-none"
+                    alt="">
+                <h1 class="text-lg font-normal text-slate-100 mt-3">Aplikasi Angkutani</h1>
+                <h1 class="text-base font-normal text-slate-500 mb-3">Only User Interface</h1>
+            </div>
+            <div class="w-full px-20 py-4 flex flex-col justify-end items-center">
+                <img src="img/ui2.png"
+                    class="border border-slate-400 rounded-md saturate-0 hover:ring-4 hover:border-none group hover:ring-sky-500 transition duration-500 hover:scale-105 hover:filter-none"
+                    alt="">
+                <h1 class="text-lg font-normal group-hover:text-sky-500 text-slate-100 mt-3">Aplikasi Recycle Bin</h1>
+                <h1 class="text-base font-normal text-slate-500 mb-3">Only User Interface</h1>
+            </div>
         </div>
     </section>
 
